@@ -1,0 +1,16 @@
+h1 {
+   background-color: rgba(149, 126, 150, 0.815); 
+   color: black;
+   font-family: Verdana, "Times New Roman", sans-serif;
+}
+.epigraph {
+    background-color: rgba(89, 160, 145, 0.685);
+}
+.listing {
+    background-color: brown;
+    color: blue;
+    font-size: 22px;
+}
+li {
+    font-weight: 700;
+}
